@@ -1,2 +1,2 @@
 # -> Interactive dashboard: A data visualization tool, such as the Streamlit app, was used to create an interactive dashboard. Users of the dashboard can filter and explore the data based on a variety of criteria, including company, industry, and location.
-#-> Infographic: A visually appealing infographic was made to highlight the main findings of the tech layoffs project. To represent the data and highlight the most crucial insights, charts, graphs, and icons were used.
+# -> Infographic: A visually appealing infographic was made to highlight the main findings of the tech layoffs project. To represent the data and highlight the most crucial insights, charts, graphs, and icons were used.
